@@ -1,6 +1,17 @@
 # _**🍝 Restaurant Reservation System (Python console-based)**_
 
 
+## _**Collaborators**_
+A huge thanks to my teammates for their dedication and contributions to making these projects a success! 
+
+🌟Lee Wen Xuan
+
+🌟Ho Zi Shan
+
+🌟Ilyana Sofiya Binti Muhammad Najeli
+
+🌟Tisha Ashwina Anantharaj
+
 
 ## **What It’s All About**
 
@@ -35,14 +46,3 @@ Imagine you're running a busy fine-dining restaurant in Kuala Lumpur. Reservatio
 ![image](https://github.com/user-attachments/assets/caac78cf-9de6-4585-bdaf-d2b8c0d96937)
 
 
-
-## _**Collaborators**_
-A huge thanks to my teammates for their dedication and contributions to making these projects a success! 
-
-🌟Lee Wen Xuan
-
-🌟Ho Zi Shan
-
-🌟Ilyana Sofiya Binti Muhammad Najeli
-
-🌟Tisha Ashwina Anantharaj
