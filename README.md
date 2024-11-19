@@ -1,7 +1,7 @@
 # _**🍝 Restaurant Reservation System (Python console-based)**_
 
 
-## _**Collaborators**_
+## **Collaborators**
 A huge thanks to my teammates for their dedication and contributions to making these projects a success! 
 
 🌟Lee Wen Xuan
@@ -29,7 +29,7 @@ Imagine you're running a busy fine-dining restaurant in Kuala Lumpur. Reservatio
 
 
 
-## **_Sneak Peek_**
+## **Sneak Peek**
 
 1. Main Menu
 
